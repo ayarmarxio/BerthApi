@@ -1,0 +1,14 @@
+F:\PERSONALES Proyectos\BerthApp\BerthApi\bin\Debug\netcoreapp2.1\BerthApi.deps.json
+F:\PERSONALES Proyectos\BerthApp\BerthApi\bin\Debug\netcoreapp2.1\BerthApi.runtimeconfig.json
+F:\PERSONALES Proyectos\BerthApp\BerthApi\bin\Debug\netcoreapp2.1\BerthApi.runtimeconfig.dev.json
+F:\PERSONALES Proyectos\BerthApp\BerthApi\bin\Debug\netcoreapp2.1\BerthApi.dll
+F:\PERSONALES Proyectos\BerthApp\BerthApi\bin\Debug\netcoreapp2.1\BerthApi.pdb
+F:\PERSONALES Proyectos\BerthApp\BerthApi\obj\Debug\netcoreapp2.1\BerthApi.csprojAssemblyReference.cache
+F:\PERSONALES Proyectos\BerthApp\BerthApi\obj\Debug\netcoreapp2.1\BerthApi.csproj.CoreCompileInputs.cache
+F:\PERSONALES Proyectos\BerthApp\BerthApi\obj\Debug\netcoreapp2.1\BerthApi.RazorAssemblyInfo.cache
+F:\PERSONALES Proyectos\BerthApp\BerthApi\obj\Debug\netcoreapp2.1\BerthApi.RazorAssemblyInfo.cs
+F:\PERSONALES Proyectos\BerthApp\BerthApi\obj\Debug\netcoreapp2.1\BerthApi.AssemblyInfoInputs.cache
+F:\PERSONALES Proyectos\BerthApp\BerthApi\obj\Debug\netcoreapp2.1\BerthApi.AssemblyInfo.cs
+F:\PERSONALES Proyectos\BerthApp\BerthApi\obj\Debug\netcoreapp2.1\BerthApi.RazorTargetAssemblyInfo.cache
+F:\PERSONALES Proyectos\BerthApp\BerthApi\obj\Debug\netcoreapp2.1\BerthApi.dll
+F:\PERSONALES Proyectos\BerthApp\BerthApi\obj\Debug\netcoreapp2.1\BerthApi.pdb
